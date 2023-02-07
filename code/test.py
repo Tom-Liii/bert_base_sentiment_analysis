@@ -1,3 +1,6 @@
+'''
+Author: GitHub@Tom-Liii
+'''
 from transformers import BertConfig, BertForSequenceClassification, BertTokenizer
 import torch
 
