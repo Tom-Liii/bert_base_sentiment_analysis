@@ -1,9 +1,5 @@
 '''
 Author: GitHub@Tom-Liii
-The code is adapted from CSDN@HMTT
-
-版权声明：本文为CSDN博主「HMTT」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/qq_42464569/article/details/123898549
 '''
 from transformers import BertForSequenceClassification, BertTokenizer, Trainer, TrainingArguments, BertConfig
 import torch
